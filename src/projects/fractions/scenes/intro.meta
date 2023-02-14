@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "seed": 1532072812,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 0
+    },
+    {
+      "name": "Subtraction",
+      "targetTime": 7.617768356080229
+    },
+    {
+      "name": "Multiplication",
+      "targetTime": 8.334005405825204
+    },
+    {
+      "name": "Division",
+      "targetTime": 9.30957951420047
+    },
+    {
+      "name": "End",
+      "targetTime": 10.144738814801373
+    }
+  ]
+}

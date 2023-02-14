@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "seed": 1532072812,
+  "timeEvents": [
+    {
+      "name": "bounce",
+      "targetTime": 4.920465934496011
+    },
+    {
+      "name": "cross",
+      "targetTime": 6.172131297101054
+    },
+    {
+      "name": "rotate",
+      "targetTime": 6.7
+    },
+    {
+      "name": "split",
+      "targetTime": 8.56676578856693
+    },
+    {
+      "name": "join",
+      "targetTime": 12.382464074157134
+    },
+    {
+      "name": "swap",
+      "targetTime": 16.3434808134395
+    },
+    {
+      "name": "q move",
+      "targetTime": 18.443855389882824
+    },
+    {
+      "name": "a show",
+      "targetTime": 19.466666666666665
+    },
+    {
+      "name": "numr show",
+      "targetTime": 24.988180600774697
+    },
+    {
+      "name": "dnom show",
+      "targetTime": 26
+    },
+    {
+      "name": "End",
+      "targetTime": 27.287553719155206
+    },
+    {
+      "name": "Blank",
+      "targetTime": 28.3
+    }
+  ]
+}

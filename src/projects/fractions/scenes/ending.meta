@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "seed": 1532072812,
+  "timeEvents": [
+    {
+      "name": "Sub",
+      "targetTime": 6.894143564722648
+    },
+    {
+      "name": "Star",
+      "targetTime": 11.54816623463206
+    },
+    {
+      "name": "End",
+      "targetTime": 27.287553719155206
+    }
+  ]
+}

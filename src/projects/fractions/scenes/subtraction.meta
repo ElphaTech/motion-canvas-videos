@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "seed": 1532072812,
+  "timeEvents": [
+    {
+      "name": "shrink&move q",
+      "targetTime": 1
+    },
+    {
+      "name": "working",
+      "targetTime": 3
+    },
+    {
+      "name": "lengthen l vin",
+      "targetTime": 11.060909456560523
+    },
+    {
+      "name": "Add left nums",
+      "targetTime": 12.795272213983388
+    },
+    {
+      "name": "show left ans",
+      "targetTime": 17.414289105685356
+    },
+    {
+      "name": "lengthen r vin",
+      "targetTime": 26.70712171379764
+    },
+    {
+      "name": "Add right nums",
+      "targetTime": 27.733333333333334
+    },
+    {
+      "name": "show right ans",
+      "targetTime": 30.749966823137015
+    },
+    {
+      "name": "work move",
+      "targetTime": 32.766666666666666
+    },
+    {
+      "name": "a show",
+      "targetTime": 37.005825231207304
+    },
+    {
+      "name": "numr show",
+      "targetTime": 40.99569839076908
+    },
+    {
+      "name": "dnom show",
+      "targetTime": 42
+    },
+    {
+      "name": "End",
+      "targetTime": 43
+    }
+  ]
+}

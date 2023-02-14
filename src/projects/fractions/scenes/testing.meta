@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "seed": 1532072812,
+  "timeEvents": [
+    {
+      "name": "twelve",
+      "targetTime": 100
+    },
+    {
+      "name": "done",
+      "targetTime": 200
+    }
+  ]
+}
