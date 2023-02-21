@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "seed": 1532072812,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 0
+    },
+    {
+      "name": "factorT",
+      "targetTime": 1
+    },
+    {
+      "name": "FactorsDef",
+      "targetTime": 2
+    },
+    {
+      "name": "Factor Equat",
+      "targetTime": 5.204028393960466
+    },
+    {
+      "name": "FactEq note",
+      "targetTime": 6.066666666666666
+    },
+    {
+      "name": "end Factor",
+      "targetTime": 16.938554908790735
+    },
+    {
+      "name": "MultiplesDef",
+      "targetTime": 18.466666666666665
+    },
+    {
+      "name": "Multiples Equat",
+      "targetTime": 21.65862921204514
+    },
+    {
+      "name": "MultEq note",
+      "targetTime": 33.925460211756786
+    },
+    {
+      "name": "end PrimeN",
+      "targetTime": 42.47387827248005
+    },
+    {
+      "name": "PrimeN",
+      "targetTime": 44
+    },
+    {
+      "name": "PrimeN Equat",
+      "targetTime": 50.27888718164393
+    },
+    {
+      "name": "PrimeN note",
+      "targetTime": 53.21721009084176
+    },
+    {
+      "name": "End",
+      "targetTime": 64.6961166057851
+    }
+  ]
+}

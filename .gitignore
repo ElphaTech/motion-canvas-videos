@@ -13,3 +13,7 @@ dist
 *.njsproj
 *.sln
 *.sw?
+
+# scripts
+/vidScripts
+*.aup3

@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "seed": 4140315563,
+  "timeEvents": [
+    {
+      "name": "show example",
+      "targetTime": 8.437198015662837
+    },
+    {
+      "name": "add 1-1st 2",
+      "targetTime": 18.48833458569318
+    },
+    {
+      "name": "add 1-2nd 2",
+      "targetTime": 19.3
+    },
+    {
+      "name": "add 1-1st 3",
+      "targetTime": 20.1
+    },
+    {
+      "name": "add 2-1st 2",
+      "targetTime": 24.769231290165322
+    },
+    {
+      "name": "add 2-2nd 2",
+      "targetTime": 25.6
+    },
+    {
+      "name": "reset highlighting",
+      "targetTime": 26.4
+    },
+    {
+      "name": "show check box",
+      "targetTime": 31.894141830809076
+    },
+    {
+      "name": "check 1",
+      "targetTime": 35.931366820999955
+    },
+    {
+      "name": "move 2",
+      "targetTime": 36.733333333333334
+    },
+    {
+      "name": "check 2",
+      "targetTime": 37.333333333333336
+    },
+    {
+      "name": "move 3",
+      "targetTime": 40.239914813534455
+    },
+    {
+      "name": "check 3",
+      "targetTime": 41.38256417202204
+    },
+    {
+      "name": "1st remove",
+      "targetTime": 42.882762789949446
+    },
+    {
+      "name": "check 4",
+      "targetTime": 45.216124819755706
+    },
+    {
+      "name": "move 4",
+      "targetTime": 46.03333333333333
+    },
+    {
+      "name": "check 5",
+      "targetTime": 46.63333333333333
+    },
+    {
+      "name": "2nd remove",
+      "targetTime": 47.43333333333333
+    },
+    {
+      "name": "check 6",
+      "targetTime": 48.233333333333334
+    },
+    {
+      "name": "3rd remove",
+      "targetTime": 49.03333333333333
+    },
+    {
+      "name": "move 5",
+      "targetTime": 53.75988656853814
+    },
+    {
+      "name": "check 7",
+      "targetTime": 54.96666666666667
+    },
+    {
+      "name": "End",
+      "targetTime": 59.88442330632492
+    }
+  ]
+}

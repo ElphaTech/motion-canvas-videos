@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "seed": 4140315563,
+  "timeEvents": [
+    {
+      "name": "show example",
+      "targetTime": 12.190947382886511
+    },
+    {
+      "name": "add 1-1st 2",
+      "targetTime": 26.417026098433226
+    },
+    {
+      "name": "add 1-2nd 2",
+      "targetTime": 27.26666666666667
+    },
+    {
+      "name": "add 1-1st 3",
+      "targetTime": 28.1
+    },
+    {
+      "name": "add 2-1st 2",
+      "targetTime": 29.86621116908554
+    },
+    {
+      "name": "add 2-2nd 2",
+      "targetTime": 30.666666666666668
+    },
+    {
+      "name": "add 2-3rd 2",
+      "targetTime": 31.466666666666665
+    },
+    {
+      "name": "reset highlighting",
+      "targetTime": 32.266666666666666
+    },
+    {
+      "name": "show top box",
+      "targetTime": 38.769836154737945
+    },
+    {
+      "name": "show bottom box",
+      "targetTime": 41.64006744090498
+    },
+    {
+      "name": "1st flash",
+      "targetTime": 46.53376564680433
+    },
+    {
+      "name": "1st remove",
+      "targetTime": 48.53890994767461
+    },
+    {
+      "name": "move top box",
+      "targetTime": 50.592865402183264
+    },
+    {
+      "name": "show bottom box2",
+      "targetTime": 52.48188052104139
+    },
+    {
+      "name": "2st flash",
+      "targetTime": 55.37268891012836
+    },
+    {
+      "name": "2st remove",
+      "targetTime": 56.8906254093323
+    },
+    {
+      "name": "move top box2",
+      "targetTime": 60.410625039690814
+    },
+    {
+      "name": "show bottom box3",
+      "targetTime": 61.233333333333334
+    },
+    {
+      "name": "hide boxes",
+      "targetTime": 66.15638665392298
+    },
+    {
+      "name": "swap parts",
+      "targetTime": 67.8
+    },
+    {
+      "name": "add nums",
+      "targetTime": 72.22050727691388
+    },
+    {
+      "name": "replace lcm",
+      "targetTime": 75.66539364482878
+    },
+    {
+      "name": "shorten lcm",
+      "targetTime": 77.92118334926293
+    },
+    {
+      "name": "reset colors2",
+      "targetTime": 79.98237197338322
+    },
+    {
+      "name": "End",
+      "targetTime": 85.02265770628848
+    }
+  ]
+}

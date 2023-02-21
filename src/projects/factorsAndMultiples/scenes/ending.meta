@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "seed": 1532072812,
+  "timeEvents": [
+    {
+      "name": "Sub",
+      "targetTime": 0
+    },
+    {
+      "name": "Star",
+      "targetTime": 8.970375175822369
+    },
+    {
+      "name": "Bloopers",
+      "targetTime": 19.04162741926088
+    },
+    {
+      "name": "End",
+      "targetTime": 24.768490309330424
+    }
+  ]
+}

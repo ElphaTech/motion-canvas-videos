@@ -1,4 +1,78 @@
 {
   "version": 1,
-  "seed": 4140315563
+  "seed": 4140315563,
+  "timeEvents": [
+    {
+      "name": "Show Ex1",
+      "targetTime": 5.20479370644688
+    },
+    {
+      "name": "Show Ex1FirstA",
+      "targetTime": 6.533333333333333
+    },
+    {
+      "name": "Show Ex1FirstLR",
+      "targetTime": 19.43147593398044
+    },
+    {
+      "name": "Show Ex1FirstRR",
+      "targetTime": 19.933333333333334
+    },
+    {
+      "name": "Color 1",
+      "targetTime": 23.4882584689959
+    },
+    {
+      "name": "Show Ex1SecondA",
+      "targetTime": 28.42049074929976
+    },
+    {
+      "name": "Show Ex1SecondLR",
+      "targetTime": 30.73606490167085
+    },
+    {
+      "name": "Show Ex1SecondRR",
+      "targetTime": 31.266666666666666
+    },
+    {
+      "name": "Color 2",
+      "targetTime": 33.36021178491143
+    },
+    {
+      "name": "Show Ex1ThirdA",
+      "targetTime": 35.7
+    },
+    {
+      "name": "Show Ex1ThirdLR",
+      "targetTime": 36.5
+    },
+    {
+      "name": "Show Ex1ThirdRR",
+      "targetTime": 37
+    },
+    {
+      "name": "Color 3",
+      "targetTime": 37.5
+    },
+    {
+      "name": "Color 4",
+      "targetTime": 38
+    },
+    {
+      "name": "show Numbs",
+      "targetTime": 39.30244577296206
+    },
+    {
+      "name": "change2star",
+      "targetTime": 45.201411899409486
+    },
+    {
+      "name": "addEqual24",
+      "targetTime": 53.46651523024503
+    },
+    {
+      "name": "End",
+      "targetTime": 58.24111585755333
+    }
+  ]
 }
